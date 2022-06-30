@@ -72,8 +72,9 @@ Duang
 $MRTS^1_{kl}= MRTS^2_{kl}= ...= MRTS^n_{kl}= \frac{P_k}{P_l}$，k，l=1，2， …，r。  
 （３）任何两种产品生产的边际转换率即为这两种商品的边际成本之比。每一消费者对于任何两种商品的边际替代率等于其价格比率。而在完全竞争条件下，任何产品的价格等于其边际成本。因此，对任何两种产品来说，其生产的边际转换率必等于任何消费者对这两种商品的边际替代率。  
 用数学式子来表达：由于生产要素l、k之边际转换率
-$MRT_{lk}= \left | \frac{\Delta k}{\Delta l}  \right | = \frac{MC_L}{MC_K}$, l，k=1，2…，n，同时消费均衡时有：
-${MRS^1_{lk}}= \frac{P_l}{P_k}$，j，k＝l，2，…，m。而在完全竞争条件下，
+$MRT_{lk}= \left | \frac{\Delta k}{\Delta l}  \right | = \frac{MC_L}{MC_K}$
+, l，k=1，2…，n，同时消费均衡时有：
+$MRS^1_{lk}= \frac{P_l}{P_k}$，j，k＝l，2，…，m。而在完全竞争条件下，
 $MC_l= P_l$, $MC_k= P_k$, l，k＝1，2，…，n。故有：
 $MRT_{jk}= \frac{MC_L}{MC_K}= \frac{P_l}{P_k}= {MRS^1_{lk}}= {MRS^2_{lk}}= ...= {MRS^m_{lk}}$， l，k=l，2，…，n。  
 由此可见，完全竞争能够实现达到帕累托最适度状态所需具备的三个条件。  
