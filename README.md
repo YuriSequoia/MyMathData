@@ -76,4 +76,4 @@ ${MRT_{lk}}= \left | \frac{\Delta k}{\Delta l}  \right | = \frac{{MC}_{L}}{{MC}_
 ${MRS^1_{lk}}= \frac{P_l}{P_k}$，j，k＝l，2，…，m。而在完全竞争条件下，
 $MC_l= P_l$, $MC_k= P_k$, l，k＝1，2，…，n。故有：
 ${MRT}_{jk}= \frac{{MC}_{L}}{{MC}_{K}}= \frac{P_l}{P_k}= {MRS^1_{lk}}= {MRS^2_{lk}}= ...= {MRS^m_{lk}}$， l，k=l，2，…，n。  
-由此可见，完全竞争能够实现达到帕累托最适度状态所需具备的三个条件。
+由此可见，完全竞争能够实现达到帕累托最适度状态所需具备的三个条件。  
