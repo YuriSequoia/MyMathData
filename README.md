@@ -69,5 +69,7 @@
 
   均衡条件：MRP=MR·MP=MFC=MC·MP
 
+  （MFC=MC\*MP, MRP=MR\*MP）
+
   ![均衡4](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh4.jpeg)
 
