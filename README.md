@@ -33,46 +33,28 @@
   ![租金](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/zujb.png)
 
 ### 简答题
-1. 简述需求（供给）量变化和需求（供给）变化之间的区别（文字、图示）。
+1. 简述需求（供给）量变化和需求（供给）变化之间的区别（文字、图示）。  
+（1）需求量的变动  
+在其他条件不变时，由商品的价格变动所引起的该商品需求数量的变动。  
+在几何图形中表现为价格-需求数量组合点沿一条既定的需求曲线的变动；  
+（2）需求的变动  
+在某商品价格不变时，由价格之外的其他因素变动所引起该商品需求数量的变动。  
+在几何图形中表现为需求曲线位置发生移动；  
+需求曲线位置的移动表示在每一个既定的价格水平，需求数量都增加或者减少了。  
+![需求变动](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/xuqqbmds.jpg)
 
-  （1）需求量的变动
-  
-  在其他条件不变时，由商品的价格变动所引起的该商品需求数量的变动。
-  在几何图形中表现为价格-需求数量组合点沿一条既定的需求曲线的变动；
-    
-  （2）需求的变动
-  
-  在某商品价格不变时，由价格之外的其他因素变动所引起该商品需求数量的变动。
-  在几何图形中表现为需求曲线位置发生移动；
-  需求曲线位置的移动表示在每一个既定的价格水平，需求数量都增加或者减少了。
-    ![需求变动](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/xuqqbmds.jpg)
-
-2. 比较不同类型（完全竞争、卖方垄断、买方垄断、双垄断）厂商使用生产要素的原则及其均衡状态（文字、公式、图示）。
-
-  完全竞争：厂商使用要素的原则：边际产品价值=要素价格，即VMP=W
-短期均衡条件：MR.=SMC，式中，MR=AR=P
-
-  ![完全竞争](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh1.jpeg)
-
-  长期均衡条件：MR=LMC=SMC=LAC=SAC，式中，MR=AR=P，此时，单个厂商利润为零。
-
-  ![长期均衡](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh2.jpeg)
-
-  卖方垄断：均衡条件：MR·MP=W，即边际收益产品=要素价格
-
-  买方垄断：MC·MP=VMP 边际产品价值=边际要素成本。
-
-  均衡条件：VMP=P·MP=MFC=MC·MP
-
-  ![均衡3](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh3.jpeg)
-
-  双垄断：使用要素的边际收益等于要素的边际收益产品MRP=MR·MP。
-
-  使用要素的边际成本为MFC=MC·MP
-
-  均衡条件：MRP=MR·MP=MFC=MC·MP
-
-  （MFC=MC\*MP, MRP=MR\*MP）
-
-  ![均衡4](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh4.jpeg)
-
+2. 比较不同类型（完全竞争、卖方垄断、买方垄断、双垄断）厂商使用生产要素的原则及其均衡状态（文字、公式、图示）。  
+完全竞争：厂商使用要素的原则：边际产品价值=要素价格，即VMP=W  
+短期均衡条件：MR.=SMC，式中，MR=AR=P  
+![完全竞争](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh1.jpeg)  
+长期均衡条件：MR=LMC=SMC=LAC=SAC，式中，MR=AR=P，此时，单个厂商利润为零。  
+![长期均衡](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh2.jpeg)  
+卖方垄断：均衡条件：MR·MP=W，即边际收益产品=要素价格  
+买方垄断：MC·MP=VMP 边际产品价值=边际要素成本。  
+均衡条件：VMP=P·MP=MFC=MC·MP  
+![均衡3](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh3.jpeg)  
+双垄断：使用要素的边际收益等于要素的边际收益产品MRP=MR·MP。  
+使用要素的边际成本为MFC=MC·MP  
+均衡条件：MRP=MR·MP=MFC=MC·MP  
+（MFC=MC\*MP, MRP=MR\*MP）  
+![均衡4](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh4.jpeg)
