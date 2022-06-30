@@ -44,3 +44,15 @@
   需求曲线位置的移动表示在每一个既定的价格水平，需求数量都增加或者减少了。
     ![需求变动](https://github.com/YuriSequoia/MyMathData/blob/master/img/xuqqbmds.jpg)
 
+2. 比较不同类型（完全竞争、卖方垄断、买方垄断、双垄断）厂商使用生产要素的原则及其均衡状态（文字、公式、图示）。
+
+  完全竞争：厂商使用要素的原则：边际产品价值=要素价格，即VMP=W
+短期均衡条件：MR.=SMC，式中，MR=AR=P
+
+  长期均衡条件：MR=LMC=SMC=LAC=SAC，式中，MR=AR=P，此时，单个厂商利润为零。
+
+  卖方垄断：均衡条件：MR·MP=W，即边际收益产品=要素价格
+
+  买方垄断：MC·MP=VMP 边际产品价值=边际要素成本。
+
+  均衡条件：VMP=P·MP=MFC=MC·MP
