@@ -25,7 +25,7 @@
 20. 欧拉定理（产量分配净尽定理）：在完全竞争条件下，如果规模报酬不变，则全部产品正好足够分配给各个生产要素，不多也不少。
 21. 洛伦兹曲线：在一个总体（国家、地区）内，以“最贫穷的人口计算起一直到最富有人口”的人口百分比对应各个人口百分比的收入百分比的点组成的曲线。
 22. 基尼系数（图示）：洛仑兹曲线中,不平等面积与完全不平等面积之比。基尼系数是衡量一个国家贫富差距的标准。  
-  G=A/(A+B), 0≤G≤1  
+  $G=A/(A+B), 0≤G≤1$  
   G：基尼系数,A：不平等面积,A+B：完全不平等面积  
   ![基尼系数](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jinixiuu.png)
 23. 准租金（图示）：对供给量暂时固定的生产要素的支付即固定生产要素的收益。准租金=固定总成本+经济利润
@@ -44,19 +44,19 @@
 ![需求变动](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/xuqqbmds.jpg)
 
 2. 比较不同类型（完全竞争、卖方垄断、买方垄断、双垄断）厂商使用生产要素的原则及其均衡状态（文字、公式、图示）。  
-完全竞争：厂商使用要素的原则：边际产品价值=要素价格，即VMP=W  
-短期均衡条件：MR.=SMC，式中，MR=AR=P  
+完全竞争：厂商使用要素的原则：边际产品价值=要素价格，即$VMP=W$  
+短期均衡条件：$MR.=SMC$，式中，$MR=AR=P$  
 ![完全竞争](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh1.jpeg)  
-长期均衡条件：MR=LMC=SMC=LAC=SAC，式中，MR=AR=P，此时，单个厂商利润为零。  
+长期均衡条件：$MR=LMC=SMC=LAC=SAC$，式中，$MR=AR=P$，此时，单个厂商利润为零。  
 ![长期均衡](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh2.jpeg)  
-卖方垄断：均衡条件：MR·MP=W，即边际收益产品=要素价格  
-买方垄断：MC·MP=VMP 边际产品价值=边际要素成本。  
-均衡条件：VMP=P·MP=MFC=MC·MP  
+卖方垄断：均衡条件：$MR·MP=W$，即边际收益产品=要素价格  
+买方垄断：$MC·MP=VMP$ 边际产品价值=边际要素成本。  
+均衡条件：$VMP=P·MP=MFC=MC·MP$  
 ![均衡3](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh3.jpeg)  
 双垄断：使用要素的边际收益等于要素的边际收益产品MRP=MR·MP。  
-使用要素的边际成本为MFC=MC·MP  
-均衡条件：MRP=MR·MP=MFC=MC·MP  
-（MFC=MC\*MP, MRP=MR\*MP）  
+使用要素的边际成本为$MFC=MC·MP$  
+均衡条件：$MRP=MR·MP=MFC=MC·MP$  
+（$MFC=MC*MP, MRP=MR*MP$）  
 ![均衡4](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh4.jpeg)
 
 ### 计算题
