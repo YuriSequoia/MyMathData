@@ -49,10 +49,25 @@
   完全竞争：厂商使用要素的原则：边际产品价值=要素价格，即VMP=W
 短期均衡条件：MR.=SMC，式中，MR=AR=P
 
+  ![完全竞争](https://github.com/YuriSequoia/MyMathData/blob/master/img/jyhh1.jpg)
+
   长期均衡条件：MR=LMC=SMC=LAC=SAC，式中，MR=AR=P，此时，单个厂商利润为零。
+
+  ![长期均衡](https://github.com/YuriSequoia/MyMathData/blob/master/img/jyhh2.jpg)
 
   卖方垄断：均衡条件：MR·MP=W，即边际收益产品=要素价格
 
   买方垄断：MC·MP=VMP 边际产品价值=边际要素成本。
 
   均衡条件：VMP=P·MP=MFC=MC·MP
+
+  ![均衡3](https://github.com/YuriSequoia/MyMathData/blob/master/img/jyhh3.jpg)
+
+  双垄断：使用要素的边际收益等于要素的边际收益产品MRP=MR·MP。
+
+  使用要素的边际成本为MFC=MC·MP
+
+  均衡条件：MRP=MR·MP=MFC=MC·MP
+
+  ![均衡4](https://github.com/YuriSequoia/MyMathData/blob/master/img/jyhh4.jpg)
+
