@@ -30,7 +30,8 @@
   ![基尼系数](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jinixiuu.png)
 23. 准租金（图示）：对供给量暂时固定的生产要素的支付即固定生产要素的收益。准租金=固定总成本+经济利润
 24. 经济租金（图示）：要素收入(或价格)的一个部分,该部分并非为获得该要素于当前使用中所必须,它代表着要素收入中超出其在其他场所可能得到的收入部分。对厂商而言经济租金就是为生产要素所支付的金额与为得到使用该要素所必须支付的最小金额之间的差额。经济租金=要素收入-机会成本  
-  ![租金](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/zujb.png)
+  ![租金](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/zujb.png)  
+25. 寻租（竞租）：是指在没有从事生产的情况下，为垄断社会资源或维持垄断地位，从而得到垄断利润所从事的一种非生产性寻利活动。
 
 ### 简答题
 1. 简述需求（供给）量变化和需求（供给）变化之间的区别（文字、图示）。  
