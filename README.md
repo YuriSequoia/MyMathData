@@ -56,7 +56,7 @@
 双垄断：使用要素的边际收益等于要素的边际收益产品$MRP=MR·MP$。  
 使用要素的边际成本为$MFC=MC·MP$  
 均衡条件：$MRP=MR·MP=MFC=MC·MP$  
-（ $MFC=MC*MP, MRP=MR*MP$ ）  
+$(MFC=MC*MP, MRP=MR*MP)$
 ![均衡4](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh4.jpeg)
 
 ### 计算题
