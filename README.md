@@ -56,7 +56,7 @@
 双垄断：使用要素的边际收益等于要素的边际收益产品$MRP=MR·MP$。  
 使用要素的边际成本为$MFC=MC·MP$  
 均衡条件：$MRP=MR·MP=MFC=MC·MP$  
-（$MFC=MC*MP, MRP=MR*MP$）  
+（ $MFC=MC*MP, MRP=MR*MP$ ）  
 ![均衡4](https://raw.githubusercontent.com/YuriSequoia/MyMathData/master/img/jyhh4.jpeg)
 
 ### 计算题
@@ -89,8 +89,10 @@ $3Q^2-24Q+60=0$
 ，解得：
 $Q=10$或$Q=-2$（舍去）。  
 此时，
-$LAC=Q^2-12Q+40=20$；利润
-$\pi =(P-LAC)Q=800$。  
+$LAC=Q^2-12Q+40=20$
+；利润：
+$\pi =(P-LAC)Q=800$
+。  
 (2)该行业长期均衡时的价格和单个厂商的产量。  
 长期均衡时，$LAC$为最低点。
 $LAC'=2Q-12=0,Q=6$是$LAC$最低点。
