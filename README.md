@@ -67,8 +67,16 @@ $\therefore e_M= \frac{\mathrm{d} Q}{\mathrm{d} M}\cdot\frac{M}{Q}= P^{-N}\cdot\
 由此可见，一般地，对于线性需求函数$Q(M)＝M^{-n}$而言，其需求的收入点弹性总是等于1。
 2. 已知某消费者的效用函数，求该消费者的需求函数。  
 假定某消费者的效用函数为$U= q^{0.5}+3M$，其中，$q$为某商品的消费量，$M$为收入。求该消费者的需求函数.  
-解：商品的边际效用为$MU= \frac{\partial U}{\partial q}=0.5q^{-0.5}$，货币的边际效用为$\lambda =\frac{\partial U}{\partial M}= 3$  
-由实现消费者均衡条件$\frac{MU}{P}= \lambda$可得：$\frac{0.5q^{-0.5}}{p}= 3$，整理得消费者的需求函数为$q= \frac{1}{36p^2}$。
+解：商品的边际效用为
+$MU= \frac{\partial U}{\partial q}=0.5q^{-0.5}$  
+货币的边际效用为
+$\lambda =\frac{\partial U}{\partial M}= 3$  
+由实现消费者均衡条件
+$\frac{MU}{P}= \lambda$
+可得：
+$\frac{0.5q^{-0.5}}{p}= 3$
+，整理得消费者的需求函数为
+$q= \frac{1}{36p^2}$。
 3. 完全竞争的成本不变行业实现长期均衡时的状况。
 4. 垄断厂商的短期均衡。
 
